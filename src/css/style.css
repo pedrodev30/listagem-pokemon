@@ -41,6 +41,7 @@ main .listagem-pokemon {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
+  justify-content: center;
 }
 
 main .cartao-pokemon {
