@@ -10,3 +10,8 @@ body.modo-escuro {
   background-color: #212121;
   color: #f5f5f5;
 }
+
+header .logo,
+header .imagem-botao {
+  width: 30px;
+}
