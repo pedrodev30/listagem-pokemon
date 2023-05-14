@@ -25,5 +25,10 @@ header .imagem-botao {
 header #botao-alterar-tema {
   background: none;
   border: none;
-  cursor: pointer;
+}
+
+header .logo:hover,
+header .imagem-botao:hover {
+  transform: scale(1.05);
+  cursor: pointer
 }
