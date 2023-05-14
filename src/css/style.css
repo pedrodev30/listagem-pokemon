@@ -20,6 +20,7 @@ header {
 header .logo,
 header .imagem-botao {
   width: 30px;
+  transition: 0.2s ease-in-out;
 }
 
 header #botao-alterar-tema {
@@ -28,7 +29,8 @@ header #botao-alterar-tema {
 }
 
 header .logo:hover,
-header .imagem-botao:hover {
+header .imagem-botao:hover,
+main .cartao-pokemon:hover {
   transform: scale(1.05);
   cursor: pointer
 }
@@ -47,4 +49,19 @@ main .listagem-pokemon {
 main .cartao-pokemon {
   background-color: #d8e3ec;
   width: 200px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  border-radius: 15px;
+  transition: 0.2s ease-in-out;
+}
+
+main .cartao-pokemon:hover {
+  background-color: #96d9d6;
+}
+
+.modo-escuro .cartao-pokemon {
+  background-color: #a8a8a8;
 }
