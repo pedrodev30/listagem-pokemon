@@ -38,3 +38,8 @@ O projeto basicamente é uma listagem de varios pokémons com suas informações
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/e75zi3kEp6PA98jAg5hCsu/Listagem-Pokemon?type=design&node-id=0%3A1&t=TR9FobTHfXKeG1F8-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
