@@ -8,6 +8,12 @@
 
 Esse é um projeto Web que faz uma listagem de alguns pokémons
 
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+Você tem uma máquina ```<Windows / Linux / Mac>```
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
