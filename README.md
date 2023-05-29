@@ -1,7 +1,7 @@
 <h1 align="center">Listagem Pokémon</h1>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.png" width="100%">
+  <img src="./.github/presentation.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
