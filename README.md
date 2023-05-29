@@ -4,6 +4,10 @@
   <img src="./.github/presentation.gif" width="100%">
 </p>
 
+## 📒 Descrição
+
+Esse é um projeto Web que faz uma listagem de alguns pokémons
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -11,14 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-
-## 💻 Projeto
-
-O projeto basicamente é uma listagem de varios pokémons com suas informações com gifs de cada.
-
-- Clicando na imagem do sol no canto superior a direita é possivel alterar o tema da página via DOM
-
-- [Visite o projeto online](https://szpc-pokemon.vercel.app)
 
 ## 🔖 Layout
 
