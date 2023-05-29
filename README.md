@@ -65,8 +65,4 @@ O projeto está finalizado.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
-
-<p align="center">
-  Feito com ♥ por Pedro Henrique
-</p>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/pedrodev30/listagem-pokemon/blob/main/LICENSE) para mais detalhes.
