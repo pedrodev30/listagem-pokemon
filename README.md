@@ -44,6 +44,21 @@ $ Agora abra o arquivo index.html com o live Server
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/e75zi3kEp6PA98jAg5hCsu/Listagem-Pokemon?type=design&node-id=0%3A1&t=TR9FobTHfXKeG1F8-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/pedrodev30.png" width="100px;" alt="Foto do Pedro Henrique"/><br>
+        <sub>
+          <b>Pedro Henrique</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
