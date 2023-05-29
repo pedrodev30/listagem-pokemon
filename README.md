@@ -18,9 +18,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Tema escuro: Altera o tema quando o usuário clica na imagem do sol no canto superior a direita
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🔧 Tecnologias utilizadas
 
 - HTML
 - CSS
