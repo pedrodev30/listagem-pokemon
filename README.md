@@ -59,6 +59,10 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
   </tr>
 </table>
 
+## 🎯 Status do projeto
+
+O projeto está finalizado.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
